@@ -1,6 +1,3 @@
-print("WOW Intro Text\n\n\n\n")
-
-
 print("In the following field, key in the",
 	     "current year in which you are running",
 	     "this script, in the format <YYYY>.\n")
